@@ -1,0 +1,30 @@
+secao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.image-wrapper img{
+    width:50%;
+    height: 50%;
+    overflow: hidden;
+}
+
+.card-text{
+    position:absolute;
+    top: 0;
+    opacity: o;
+}
+
+card
